@@ -169,7 +169,7 @@ python setup.py develop
     ```
 4. **custom classification training**
 
-https://github.com/eeric/yolo2voc2coco
+    please see https://github.com/eeric/yolo2voc2coco
 
 ****
 
