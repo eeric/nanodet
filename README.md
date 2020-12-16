@@ -136,6 +136,8 @@ python setup.py develop
 
     Or convert your dataset annotations to MS COCO format[(COCO annotation format details)](https://cocodataset.org/#format-data). 
     
+    If convert COCO format, please see https://github.com/eeric/yolo2voc2coco
+    
 2. **Prepare config file**
 
     Copy and modify an example yml config file in config/ folder.
