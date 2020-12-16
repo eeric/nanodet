@@ -167,7 +167,7 @@ python setup.py develop
     ```shell script
     python -m torch.distributed.launch --nproc_per_node=GPU_NUM --master_port 29501 tools/train.py CONFIG_PATH
     ```
-4. **custom classification training**
+4. **custom classification training and test**
 
     please see https://github.com/eeric/yolo2voc2coco
 
