@@ -206,6 +206,9 @@ https://github.com/cmdbug/YOLOv5_NCNN
 
 https://github.com/rbgirshick/yacs
 
+## nanodet introduction
+https://guo-pu.blog.csdn.net/article/details/110410940
+
 
 
 
