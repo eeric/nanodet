@@ -1,6 +1,6 @@
 ![](docs/imgs/Title.jpg)
 
-# NanoDet
+# NanoDet（modified）
 
 
 ### Super fast and lightweight anchor-free object detection model. Real-time on mobile devices.
